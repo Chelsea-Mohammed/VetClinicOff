@@ -1,0 +1,14 @@
+{
+    "files": [
+      "index.html",
+      "page2.html",
+      "page3.html",
+      "styles.css",
+      "script.js",
+      "package.json"
+    ],
+    "dependencies": {
+      "bootstrap": "^5.3.2"
+    }
+  }
+  
