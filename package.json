@@ -1,0 +1,9 @@
+{
+    "name": "VetClinicOff",
+    "version": "1.0.0",
+    "description": "Vet Clinic Website",
+    "dependencies": {
+      "bootstrap": "^5.3.2"
+    }
+  }
+  
